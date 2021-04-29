@@ -1,4 +1,5 @@
 testtest
 test.add
 git.status.sawano
+git.diff
 
